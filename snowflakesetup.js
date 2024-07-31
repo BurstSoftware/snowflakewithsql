@@ -1,6 +1,8 @@
 /*--
 Tasty Bytes is a fictitious, global food truck network, that is on a mission to serve unique food options with high
-quality items in a safe, convenient and cost effective way. In order to drive forward on their mission, Tasty Bytes
+quality items in a safe, convenient and cost effective way. 
+
+In order to drive forward on their mission, Tasty Bytes
 is beginning to leverage the Snowflake Data Cloud.
 
 Within this Worksheet, we will walk through the end to end process required to load a CSV file containing Menu specific data
